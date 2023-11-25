@@ -1,0 +1,112 @@
+{
+  "A": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-ace",
+    "northBoundLastStop": "Inwood-207th Street",
+    "southBoundLastStop": "Far Rockaway-Mott Avenue/Ozone Park-Lefferts Boulevard/Rockaway Park-Beach 116th Street"
+  },
+  "C": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-ace",
+    "northBoundLastStop": "168th Street",
+    "southBoundLastStop": "Euclid Avenue"
+  },
+  "E": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-ace",
+    "northBoundLastStop": "Jamaica Center-Parsons/Archer",
+    "southBoundLastStop": "World Trade Center"
+  },
+  "B": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-bdfm",
+    "northBoundLastStop": "Bedford Park Boulevard",
+    "southBoundLastStop": "Brighton Beach"
+  },
+  "D": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-bdfm",
+    "northBoundLastStop": "Norwood-205th Street",
+    "southBoundLastStop": "Coney Island-Stillwell Avenue"
+  },
+  "F": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-bdfm",
+    "northBoundLastStop": "Jamaica-179th Street",
+    "southBoundLastStop": "Coney Island-Stillwell Avenue"
+  },
+  "M": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-bdfm",
+    "northBoundLastStop": "Astoria-Ditmars Boulevard",
+    "southBoundLastStop": "Coney Island-Stillwell Avenue"
+  },
+  "G": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-g",
+    "northBoundLastStop": "Court Square",
+    "southBoundLastStop": "Church Avenue"
+  },
+  "J": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-jz",
+    "northBoundLastStop": "Jamaica Center-Parsons/Archer",
+    "southBoundLastStop": "Broad Street"
+  },
+  "Z": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-jz",
+    "northBoundLastStop": "Jamaica Center-Parsons/Archer",
+    "southBoundLastStop": "Broad Street"
+  },
+  "N": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-nqrw",
+    "northBoundLastStop": "Astoria-Ditmars Boulevard",
+    "southBoundLastStop": "Coney Island-Stillwell Avenue"
+  },
+  "Q": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-nqrw",
+    "northBoundLastStop": "96th Street",
+    "southBoundLastStop": "Coney Island-Stillwell Avenue"
+  },
+  "R": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-nqrw",
+    "northBoundLastStop": "Forest Hills-71st Avenue",
+    "southBoundLastStop": "Bay Ridge-95th Street"
+  },
+  "W": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-nqrw",
+    "northBoundLastStop": "Astoria-Ditmars Boulevard",
+    "southBoundLastStop": "Whitehall Street-South Ferry (Weekdays only)"
+  },
+  "L": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-l",
+    "northBoundLastStop": "Eighth Avenue",
+    "southBoundLastStop": "Canarsie-Rockaway Parkway"
+  },
+  "1": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs",
+    "northBoundLastStop": "Van Cortlandt Park-242nd Street",
+    "southBoundLastStop": "South Ferry"
+  },
+  "2": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs",
+    "northBoundLastStop": "Wakefield-241st Street",
+    "southBoundLastStop": "Flatbush Avenue-Brooklyn College"
+  },
+  "3": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs",
+    "northBoundLastStop": "Harlem-148th Street",
+    "southBoundLastStop": "New Lots Avenue"
+  },
+  "4": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs",
+    "northBoundLastStop": "Woodlawn",
+    "southBoundLastStop": "Crown Heights-Utica Avenue/New Lots Avenue (Late Night)"
+  },
+  "5": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs",
+    "northBoundLastStop": "Eastchester-Dyre Avenue",
+    "southBoundLastStop": "Flatbush Avenue-Brooklyn College (Weekdays), Nereid Avenue (Weekends & Late Nights)  "
+  },
+  "6": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs",
+    "northBoundLastStop": "Pelham Bay Park",
+    "southBoundLastStop": "Brooklyn Bridge-City Hall"
+  },
+  "7": {
+    "mtaEndpoint": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs",
+    "northBoundLastStop": "Flushing-Main Street",
+    "southBoundLastStop": "34th Street-Hudson Yards"
+  }
+}
