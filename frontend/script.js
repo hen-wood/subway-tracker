@@ -77,7 +77,8 @@ function getMinutesAndSecondsFromNow(timeString) {
     return "now!";
   }
 
-  return `in ${diffMinutes} minute${
-    diffMinutes === 1 ? "" : "s"
-  } and ${diffSeconds} second${diffSeconds === 1 ? "" : "s"}`;
+  // return `in ${diffMinutes} minute${
+  //   diffMinutes === 1 ? "" : "s"
+  // } and ${diffSeconds} second${diffSeconds === 1 ? "" : "s"}`;
+  return `in ${diffMinutes} minute${diffMinutes === 1 ? "" : "s"}`;
 }

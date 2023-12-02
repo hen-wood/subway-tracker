@@ -44,7 +44,7 @@ body {
   justify-content: space-between;
   flex-direction: column;
   height: 100%;
-  padding-left: 30px;
+  padding-left: 10px;
 }
 
 .time-title {
