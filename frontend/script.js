@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
       churchAveEl.classList.remove(`fade-in-out`);
     }
 
-    churchAveChanceEl.innerText = `Next chance ${getMinutesAndSecondsFromNow(
+    churchAveChanceEl.innerText = `Next arrival ${getMinutesAndSecondsFromNow(
       churchAveChance
     )}`;
 
@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
       courtSquareEl.classList.remove(`fade-in-out`);
     }
 
-    courtSquareChanceEl.innerText = `Next chance ${getMinutesAndSecondsFromNow(
+    courtSquareChanceEl.innerText = `Next arrival ${getMinutesAndSecondsFromNow(
       courtSquareChance
     )}`;
   }, 10 * 1000);
