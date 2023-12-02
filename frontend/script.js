@@ -15,11 +15,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
     churchAveEl.innerText = `Arriving ${churchArrivalString}`;
     if (churchArrivalString === "now!") {
-      churchAveEl.style.color = "#ab4848";
-      churchAveEl.style.fontWeight = "bold";
+      churchAveEl.classList.add(`fade-in-out`);
     } else {
-      churchAveEl.style.color = "#000";
-      churchAveEl.style.fontWeight = "unset";
+      churchAveEl.classList.remove(`fade-in-out`);
     }
 
     churchAveChanceEl.innerText = `Next chance ${getMinutesAndSecondsFromNow(
@@ -28,11 +26,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
     courtSquareEl.innerText = `Arriving ${courtArrivalString}`;
     if (courtArrivalString === "now!") {
-      courtSquareEl.style.color = "#ab4848";
-      courtSquareEl.style.fontWeight = "bold";
+      courtSquareEl.classList.add(`fade-in-out`);
     } else {
-      courtSquareEl.style.color = "#000";
-      courtSquareEl.style.fontWeight = "unset";
+      courtSquareEl.classList.remove(`fade-in-out`);
     }
 
     courtSquareChanceEl.innerText = `Next chance ${getMinutesAndSecondsFromNow(
