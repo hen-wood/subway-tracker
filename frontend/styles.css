@@ -41,14 +41,14 @@ body {
 
 .time-title-container{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   flex-direction: column;
   height: 100%;
   padding-left: 10px;
 }
 
 .time-title {
-  font-size: 30px;
+  font-size: 40px;
   margin: 0;
 }
 
